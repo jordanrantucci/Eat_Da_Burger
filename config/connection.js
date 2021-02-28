@@ -7,8 +7,8 @@ const connection = mysql.createConnection({
   port: 3306,
   user: 'root',
   // NOTE: Be sure to add your MySQL password here!
-  password: 'ThinkPad$1989',
-  database: 'cat_db',
+  password: process.env.DB_PASS,
+  database: 'burger_db',
 });
 
 // Make connection.
