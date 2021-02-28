@@ -43,7 +43,7 @@ router.put('/api/burger/:id', (req, res) => {
   );
 });
 
-router.delete('/apburger/:id', (req, res) => {
+router.delete('/api/burger/:id', (req, res) => {
   const condition = `id = ${req.params.id}`;
 
   burgers.delete(condition, (result) => {
