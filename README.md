@@ -1,7 +1,7 @@
 # Eat_Da_Burger
 ## Description 
 
-This is a CWRU coding bootcamp homework assignment practicing Node.js, express with express-handlebars.  The project tests the students ability to incorporate the NPM express with express-handlebars into their code.  The project also incorporates using a mySQL database and utiliing ORM to implement quaries.  The project practices the ability to get, post, and delete documents to a JSON and be able to store them and delete them using ORM.  The poject also incorporates the ability to deploy an app onto heroku.
+This is a CWRU coding bootcamp homework assignment practicing Node.js, express with express-handlebars.  The project tests the students ability to incorporate the NPM express with express-handlebars into their code.  The project also incorporates using a mySQL database and utilizing ORM to implement quaries.  The project practices the ability to get, post, and delete documents to a JSON and be able to store them and delete them using ORM.  This project utilizes the MVC (Model-View-Controller) file set up.  The project also incorporates the ability to deploy an app onto heroku.
 
 AS A USER I would like a simple application that I can generate a list of burgers I want to eat and the burgers that I have eaten.  I want to be able to add additonal burgers and delete them if needed.
 
