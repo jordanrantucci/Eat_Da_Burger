@@ -29,7 +29,7 @@ AS A USER I would like a simple application that I can generate a list of burger
 node.js, NPM express, express-handlebars, mySQL
 
 ## Usage
-The project is used for creating a list of burgers one has eaten or plan on eating in the future: https://murmuring-taiga-63819.herokuapp.com/ 
+The project is used for creating a list of burgers one has eaten or plan on eating in the future: https://floating-stream-42297.herokuapp.com/
 
 
 Deployed Site
@@ -52,7 +52,7 @@ This project uses express to save and store the information.
 See Contact Section
 
 # Future
-Update the styling to personalize the notebook
+In the future create additional food lists or a section to include images of the burgers.
 
 # Contact
 
