@@ -1,4 +1,5 @@
 const express = require('express');
+const compression = require('compression')
 
 const PORT = process.env.PORT || 8080;
 
